@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FlagGame</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flag_game">Flag Game</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_1">Option 1</string>
+    <string name="_1_10">1/10</string>
+    <string name="question">Question</string>
+    <string name="image">Image</string>
+    <string name="display_result">Display Result</string>
+    <string name="play_again">Play Again</string>
+    <string name="start">Start</string>
+</resources>
